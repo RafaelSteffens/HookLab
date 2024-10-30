@@ -11,6 +11,11 @@ Neste projeto, desenvolvi quatro scripts que abrangem diferentes aspectos de web
 ```bash
 git clone https://github.com/RafaelSteffens/HookLab.git
 ```
+
+Para executar os scripts basta ter o python instalado e rodar o comando por script, segue exemplo de como executar o script 1:
+```bash
+python etapa1
+```
 ## Etapas Desenvolvidas
 
 1. **Web Scraping do Reddit**
