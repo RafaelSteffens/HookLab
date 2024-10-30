@@ -7,8 +7,10 @@ Olá! Estou muito empolgado por ter a oportunidade de participar deste desafio. 
 
 ## Introdução
 
-Neste projeto, desenvolvi quatro scripts que abrangem diferentes aspectos de web scraping e análise de dados. Abaixo, você encontrará uma descrição de cada etapa, bem como as instruções para executar os scripts.
-
+Neste projeto, desenvolvi quatro scripts que abrangem diferentes aspectos de web scraping e análise de dados. Abaixo, você encontrará uma descrição de cada etapa, bem como as instruções para executar os scripts. Para baixar este reposióritio basta ter o GIT instalado e executar o comando:
+```bash
+git clone https://github.com/RafaelSteffens/HookLab.git
+```
 ## Etapas Desenvolvidas
 
 1. **Web Scraping do Reddit**
